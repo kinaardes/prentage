@@ -1,2 +1,2 @@
-# prentage
-Web App for new education model
+# Prentage
+Web application for new education model.
